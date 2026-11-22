@@ -34,5 +34,5 @@ This folder contains three Excel-based data analysis projects completed.
 
 CODIORA HOUSE (PRIVATE) LIMITED
 
-Program: Week 1 Foundation – Data Analysis
+Foundation – Data Analysis
 
