@@ -1,5 +1,5 @@
 
-# Excel Analysis Projects – Tasks 19, 20 & 21
+# Excel Analysis Projects 
 
 ## Overview
 This folder contains three Excel-based data analysis projects completed.
